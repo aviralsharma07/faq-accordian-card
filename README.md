@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/aviralsharma07/faq-accordian-card)
-- Live Site URL: [Add live site URL here](https://faq-accordian-card-avi.netlify.app)
+- Solution URL: [GitHub Repo](https://github.com/aviralsharma07/faq-accordian-card)
+- Live Site URL: [Live Project Link](https://faq-accordian-card-avi.netlify.app)
 
 ### Built with
 
