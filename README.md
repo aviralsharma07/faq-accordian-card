@@ -17,14 +17,14 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 Users should be able to:
 
-- View the optimal layout for the component depending on their device's screen size
+- View the optimal layout for the component depending on the device's screen size
 - See hover states for all interactive elements on the page
 - Hide/Show the answer to a question when the question is clicked
 
 ### Screenshot
 
-<img src="./screenshots/desktop-img.png">
-<img src="./screenshots/mobile-img.png">
+<img src="./screenshots/desktop-img.png" alt="Desktop Result">
+<img src="./screenshots/mobile-img.png" alt="Mobile Result">
 
 ### Links
 
